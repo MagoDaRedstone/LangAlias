@@ -1,5 +1,0 @@
-log = console.log
-alerta = alert
-query = document.querySelector
-click = addEventListener('click', )
-func = function
