@@ -11,7 +11,7 @@ class LangAliasApp:
     def __init__(self, root):
         self.root = root
         root.title("LangAlias IDE (Tkinter)")
-        root.geometry("1000x750")
+        root.geometry("1125x750")
 
         self.PROJECTS_BASE_DIR = "Projects"
         self.CODE_SAVE_FILE = "codigo.txt"
