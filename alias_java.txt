@@ -1,0 +1,4 @@
+pub = public class
+pubv = public static void
+print = System.out.println
+args = String[] args

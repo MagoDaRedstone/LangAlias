@@ -1,0 +1,5 @@
+pub Main {
+    pubv main(args) {
+        print("print");
+    }
+}

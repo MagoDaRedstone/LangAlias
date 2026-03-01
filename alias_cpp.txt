@@ -1,0 +1,5 @@
+pc = #include <iostream>
+ns = using namespace std;
+start = int main()
+cout = std::cout
+endl = std::endl
